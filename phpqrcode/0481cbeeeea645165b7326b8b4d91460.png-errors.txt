@@ -1,0 +1,402 @@
+2024-01-03 20:04:47: <br />
+<b>Deprecated</b>:  Implicit conversion from float 0.16666666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 0.3333333333333333 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 0.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 0.6666666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 0.8333333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 1.1666666666666667 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 1.3333333333333333 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 1.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 1.6666666666666667 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 1.8333333333333333 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 2.1666666666666665 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 2.3333333333333335 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 2.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 2.6666666666666665 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 2.8333333333333335 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 3.1666666666666665 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 3.3333333333333335 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 3.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 3.6666666666666665 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 3.8333333333333335 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 4.166666666666667 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 4.333333333333333 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 4.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 4.666666666666667 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 4.833333333333333 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 5.166666666666667 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 5.333333333333333 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 5.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 5.666666666666667 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 5.833333333333333 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 6.166666666666667 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 6.333333333333333 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 6.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 6.666666666666667 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 6.833333333333333 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 7.166666666666667 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 7.333333333333333 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 7.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 7.666666666666667 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 7.833333333333333 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 8.166666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 8.333333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 8.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 8.666666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 8.833333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 9.166666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 9.333333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 9.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 9.666666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 9.833333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 10.166666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 10.333333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 10.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 10.666666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 10.833333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 11.166666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 11.333333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 11.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 11.666666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 11.833333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 12.166666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 12.333333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 12.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 12.666666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 12.833333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 13.166666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 13.333333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 13.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 13.666666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 13.833333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 14.166666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>140</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 0.16666666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 0.3333333333333333 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 0.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 0.6666666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 0.8333333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 1.1666666666666667 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 1.3333333333333333 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 1.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 1.6666666666666667 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 1.8333333333333333 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 2.1666666666666665 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 2.3333333333333335 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 2.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 2.6666666666666665 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 2.8333333333333335 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 3.1666666666666665 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 3.3333333333333335 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 3.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 3.6666666666666665 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 3.8333333333333335 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 4.166666666666667 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 4.333333333333333 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 4.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 4.666666666666667 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 4.833333333333333 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 5.166666666666667 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 5.333333333333333 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 5.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 5.666666666666667 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 5.833333333333333 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 6.166666666666667 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 6.333333333333333 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 6.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 6.666666666666667 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 6.833333333333333 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 7.166666666666667 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 7.333333333333333 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 7.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 7.666666666666667 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 7.833333333333333 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 8.166666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 8.333333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 8.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 8.666666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 8.833333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 9.166666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 9.333333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 9.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 9.666666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 9.833333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 10.166666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 10.333333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 10.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 10.666666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 10.833333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 11.166666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 11.333333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 11.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 11.666666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 11.833333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 12.166666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 12.333333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 12.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 12.666666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 12.833333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 13.166666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 13.333333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 13.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 13.666666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 13.833333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 14.166666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 14.333333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 14.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 14.666666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 14.833333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 15.166666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 15.333333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 15.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 15.666666666666666 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 15.833333333333334 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 16.166666666666668 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 16.333333333333332 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 16.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 16.666666666666668 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 16.833333333333332 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 17.166666666666668 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 17.333333333333332 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 17.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 17.666666666666668 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 17.833333333333332 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 18.166666666666668 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 18.333333333333332 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 18.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 18.666666666666668 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 18.833333333333332 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 19.166666666666668 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 19.333333333333332 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 19.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 19.666666666666668 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 19.833333333333332 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 20.166666666666668 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 20.333333333333332 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 20.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 20.666666666666668 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 20.833333333333332 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 21.166666666666668 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 21.333333333333332 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 21.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 21.666666666666668 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 21.833333333333332 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 22.166666666666668 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 22.333333333333332 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 22.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 22.666666666666668 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 22.833333333333332 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 23.166666666666668 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 23.333333333333332 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 23.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 23.666666666666668 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 23.833333333333332 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 24.166666666666668 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 24.333333333333332 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 24.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 24.666666666666668 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 24.833333333333332 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 25.166666666666668 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 25.333333333333332 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 25.5 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 25.666666666666668 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 25.833333333333332 to int loses precision in <b>/mnt/Server/htdocs/GCMS11/kotchasan/repair/repair/phpqrcode/qrencode.php</b> on line <b>144</b><br />

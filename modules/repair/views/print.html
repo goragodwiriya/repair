@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang={LANGUAGE} dir=ltr>
+
+<head>
+  <meta charset=utf-8>
+  <link rel=stylesheet href={WEBURL}modules/repair/views/fonts.css>
+  <link rel=stylesheet href={WEBURL}modules/repair/views/print.css>
+  <title>{LNG_Print receipt}</title>
+</head>
+
+<body onload="window.print()">
+  <section>
+    <h1>{LNG_Repair receipt}</h1>
+    <table>
+      <tbody>
+        <tr>
+          <td>
+            <h2>%COMPANY%</h2> %COMPANYADDRESS%
+            <br> {LNG_Phone} %COMPANYPHONE%
+          </td>
+          <td class="center">
+            <img src="%QRCODE%">
+          </td>
+        </tr>
+        <tr>
+          <td>{LNG_Transaction date}&nbsp;:&nbsp;%CREATE_DATE%</td>
+          <td class="center">%URL%</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="border">
+      <tbody>
+        <tr>
+          <td>{LNG_Customer}&nbsp;:&nbsp;%NAME%</td>
+          <td>{LNG_Phone}&nbsp;:&nbsp;%PHONE%</td>
+        </tr>
+        <tr>
+          <td colspan=2>{LNG_Address}&nbsp;:&nbsp;%ADDRESS% {LNG_Province} %PROVINCE% {LNG_Zipcode} %ZIPCODE%</td>
+        </tr>
+        <tr>
+          <td>{LNG_Equipment}&nbsp;:&nbsp;%EQUIPMENT%</td>
+          <td>{LNG_Serial/Registration No.}&nbsp;:&nbsp;%SERIAL%</td>
+        </tr>
+        <tr>
+          <td colspan="2">{LNG_Problems and repairs details}&nbsp;:&nbsp;%JOB_DESCRIPTION%</td>
+        </tr>
+        <tr>
+          <td colspan="2">{LNG_Repair note}&nbsp;:&nbsp;%COMMENT%</td>
+        </tr>
+        <tr>
+          <td>{LNG_Appraiser}&nbsp;:&nbsp;%APPRAISER% {UNIT}</td>
+          <td>{LNG_Appointment date}&nbsp;:&nbsp;%APPOINTMENT_DATE%</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="signature">
+      <tbody>
+        <tr>
+          <td class="center">
+            <span class="line">&nbsp;</span>
+          </td>
+          <td class="center">
+            <span class="line">&nbsp;</span>
+          </td>
+        </tr>
+        <tr>
+          <td class="center">{LNG_Customer}</td>
+          <td class="center">{LNG_Operator}</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+</body>
+
+</html>

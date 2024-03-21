@@ -1,0 +1,62 @@
+<form class="setup_frm modal_detail">
+  <fieldset class="item">
+    <table class="repair_detail">
+      <tr>
+        <td scope="rowgroups" colspan="2">
+          <h2>{LNG_Details of} {LNG_Customer}</h2>
+        </td>
+      </tr>
+      <tr>
+        <td class="icon-customer">{LNG_Name}</td>
+        <td>%NAME%</td>
+      </tr>
+      <tr>
+        <td class="icon-phone">{LNG_Phone}</td>
+        <td><a href="tel:%PHONE%">%PHONE%</a></td>
+      </tr>
+      <tr>
+        <td class="icon-location">{LNG_Address}</td>
+        <td>%ADDRESS% {LNG_Province} %PROVINCE% {LNG_Zipcode} %ZIPCODE%</td>
+      </tr>
+      <tr>
+        <td scope="rowgroups" colspan="2">
+          <h2>{LNG_Repair job description}</h2>
+        </td>
+      </tr>
+      <tr>
+        <td class="icon-file">{LNG_Equipment}</td>
+        <td>%TOPIC%</td>
+      </tr>
+      <tr>
+        <td class="icon-number">{LNG_Serial/Registration No.}</td>
+        <td>%PRODUCT_NO%</td>
+      </tr>
+      <tr>
+        <td class="icon-calendar">{LNG_Received date}</td>
+        <td>%CREATE_DATE%</td>
+      </tr>
+      <tr>
+        <td class="icon-calendar">{LNG_Appointment date}</td>
+        <td>%APPOINTMENT_DATE%</td>
+      </tr>
+      <tr>
+        <td class="icon-money">{LNG_Appraiser}</td>
+        <td>%APPRAISER% %CURRENCY_UNIT%</td>
+      </tr>
+      <tr>
+        <td class="icon-comments">{LNG_Repair note}</td>
+        <td>%COMMENT%</td>
+      </tr>
+      <tr>
+        <td class="icon-tools">{LNG_Problems and repairs details}</td>
+        <td>%JOB_DESCRIPTION%</td>
+      </tr>
+    </table>
+  </fieldset>
+  <fieldset>
+    <legend>
+      <span>{LNG_Transaction history}</span>
+    </legend>
+    %DETAILS%
+  </fieldset>
+</form>

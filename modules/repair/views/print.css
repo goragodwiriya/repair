@@ -1,0 +1,85 @@
+@page {
+  margin: 0;
+  size: A4;
+}
+body,
+html {
+  background-color: #333;
+  padding: 0;
+  margin: 0;
+  font-family: THSarabunNew, Tahoma, Loma;
+  font-size: 9pt;
+  color: #000;
+  line-height: 1.4;
+}
+section {
+  background-color: #fff;
+  box-shadow: 0 0 10px #000;
+  width: 210mm;
+  margin: 30px auto;
+  padding: 1cm;
+  -ms-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+@media print {
+  html,
+  body {
+    width: 210mm;
+    background-color: #fff;
+  }
+  section {
+    box-shadow: none;
+    width: auto;
+    margin: 0;
+  }
+}
+h1,
+h2 {
+  margin: 0;
+}
+h1 {
+  text-align: center;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+table,
+td,
+th {
+  border-width: 1px;
+}
+table.border {
+  border-style: none none solid solid;
+}
+table.border th,
+table.border td {
+  border-style: solid solid none none;
+}
+th,
+td {
+  padding: 5px;
+}
+caption {
+  display: none;
+}
+.center {
+  text-align: center;
+}
+span.line {
+  display: block;
+  border-bottom: 1px dashed #666;
+  padding: 0 10px;
+  max-width: 10em;
+  margin: 4em auto 0;
+}
+table.signature td {
+  width: 50%;
+}
+.term {
+  white-space: nowrap;
+  font-size: 80%;
+}

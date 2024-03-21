@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang={LANGUAGE} dir=ltr>
+
+<head>
+  <meta charset=utf-8>
+  <meta name=viewport content="width=device-width, initial-scale=1.0">
+  <link rel=stylesheet href={WEBURL}skin/gcss.css>
+  <link rel=stylesheet href={WEBURL}modules/repair/views/fonts.css>
+  <style>
+    body {
+      background-color: #E9E9E9;
+      color: #666;
+      font-family: 'THSarabunNew', Tahoma, Loma;
+      font-size: 16px;
+      line-height: 2.2;
+    }
+
+    header {
+      padding: 0 10px;
+      color: %COLOR%;
+      background-color: %BG_COLOR%;
+      -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+      -moz-box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+      box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+    }
+
+    h1 img {
+      margin-right: 10px;
+      height: 1.5em;
+      width: auto;
+    }
+
+    article {
+      background-color: #FFF;
+      width: 960px;
+      max-width: 100%;
+      margin: 10px auto;
+      padding: 10px;
+    }
+
+    .term {
+      white-space: nowrap;
+      font-size: 80%;
+    }
+
+    .repair_table td {
+      border-bottom: 1px dashed rgba(0, 0, 0, 0.1);
+      vertical-align: top;
+    }
+  </style>
+  <title>{LNG_Repair process}</title>
+</head>
+
+<body>
+  <header>
+    <h1>%LOGO%</h1>
+  </header>
+  <article>
+    <table class="fullwidth collapse repair_table">
+      <tr>
+        <td colspan=2>
+          <h2>{LNG_Details of} {LNG_Customer}</h2>
+        </td>
+      </tr>
+      <tr>
+        <td>{LNG_Name}</td>
+        <td>%NAME%</td>
+      </tr>
+      <tr>
+        <td>{LNG_Phone}</td>
+        <td><a href="tel:%PHONE%">%PHONE%</a></td>
+      </tr>
+      <tr>
+        <td>{LNG_Address}</td>
+        <td>%ADDRESS% {LNG_Province} %PROVINCE% {LNG_Zipcode} %ZIPCODE%</td>
+      </tr>
+      <tr>
+        <td colspan=2>
+          <h2>{LNG_Repair job description}</h2>
+        </td>
+      </tr>
+      <tr>
+        <td>{LNG_Equipment}</td>
+        <td>%EQUIPMENT%</td>
+      </tr>
+      <tr>
+        <td>{LNG_Serial/Registration No.}</td>
+        <td>%SERIAL%</td>
+      </tr>
+      <tr>
+        <td>{LNG_Received date}</td>
+        <td>%CREATE_DATE%</td>
+      </tr>
+      <tr>
+        <td>{LNG_Appointment date}</td>
+        <td>%APPOINTMENT_DATE%</td>
+      </tr>
+      <tr>
+        <td>{LNG_Problems and repairs details}</td>
+        <td>%JOB_DESCRIPTION%</td>
+      </tr>
+      <tr>
+        <td>{LNG_Repair note}</td>
+        <td>%COMMENT%</td>
+      </tr>
+      <tr>
+        <td>{LNG_Appraiser}</td>
+        <td>%APPRAISER% %CURRENCY_UNIT%</td>
+      </tr>
+    </table>
+  </article>
+  <article class="modal_detail">
+    <h2>{LNG_Transaction history}</h2> %DETAILS%
+  </article>
+</body>
+
+</html>
