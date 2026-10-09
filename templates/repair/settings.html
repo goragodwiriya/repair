@@ -1,0 +1,65 @@
+<aside data-component="sidebar"></aside>
+<div class="main-content">
+  <div>
+    <header data-component="topbar"></header>
+    <main class="content">
+      <form data-form="repairSettings" action="api/repair/settings/save" method="post" data-ajax-submit="true" data-load-api="api/repair/settings/get" autocomplete="off">
+        <div class="card-groups">
+          <header>
+            <div>
+              <h1 class="icon-tools" data-i18n>{LNG_Repair Settings}</h1>
+              <p data-i18n>{LNG_Repair system}</p>
+            </div>
+          </header>
+          <div class="content-body">
+            <fieldset>
+              <legend class="icon-config" data-i18n>{LNG_Module settings}</legend>
+              <div>
+                <label for="repair_first_status" data-i18n>{LNG_Initial repair status}</label>
+                <span class="form-control icon-tools">
+                  <select id="repair_first_status" name="repair_first_status" data-options-key="repair_first_status" data-attr="value:repair_first_status"></select>
+                </span>
+              </div>
+              <div class="form-group">
+                <div class="width50">
+                  <label for="repair_prefix" data-i18n>{LNG_Prefix}</label>
+                  <span class="form-control icon-number">
+                    <input type="text" id="repair_prefix" name="repair_prefix" data-attr="value:repair_prefix" maxlength="20" placeholder="JOB%Y%M-">
+                  </span>
+                  <div class="comment" data-i18n>{LNG_Prefix, if changed The number will be counted again. You can enter %Y%M (year, month).}</div>
+                </div>
+                <div class="width50">
+                  <label for="repair_job_no" data-i18n>{LNG_Receipt No.}</label>
+                  <span class="form-control icon-number">
+                    <input type="text" id="repair_job_no" name="repair_job_no" data-attr="value:repair_job_no" maxlength="20" placeholder="%04d, JOB%04d">
+                  </span>
+                  <div class="comment" data-i18n>{LNG_Number such as %04d (%04d means 4 digits, maximum 11 digits)}</div>
+                </div>
+              </div>
+              <div class="warning" data-i18n>
+                {LNG_Warning, specifying a number code format May allow users to guess the number of the repair receipt. and can pretend should be used with caution (recommended to use randomly)}
+              </div>
+            </fieldset>
+            <fieldset>
+              <legend class="icon-money" data-i18n>{LNG_Other}</legend>
+              <div>
+                <label for="currency_unit" data-i18n>{LNG_Currency unit}</label>
+                <span class="form-control icon-currency">
+                  <select id="currency_unit" name="currency_unit" data-options-key="currency_unit" data-attr="value:currency_unit"></select>
+                </span>
+              </div>
+              <div class="comment" data-i18n>{LNG_Details of} {LNG_Company} : {LNG_Company Settings}</div>
+            </fieldset>
+            <fieldset class="submit">
+              <button type="submit" class="btn btn-primary icon-save" data-i18n>{LNG_Save}</button>
+              <a class="btn btn-secondary icon-office" href="/company-settings" data-i18n>{LNG_Company Settings}</a>
+            </fieldset>
+          </div>
+        </div>
+      </form>
+    </main>
+  </div>
+  <footer class="footer">
+    <p class="center">&copy; 2026 Now.js - <a href="https://nowjs.net">nowjs.net</a></p>
+  </footer>
+</div>

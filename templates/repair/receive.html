@@ -1,0 +1,129 @@
+<aside data-component="sidebar"></aside>
+<div class="main-content">
+  <div>
+    <header data-component="topbar"></header>
+    <main class="content">
+      <form data-form="repairReceive" action="api/repair/receive/save" method="post" data-ajax-submit="true" data-load-api="api/repair/receive/get"
+            data-load-query-params="true" data-on-load="initRepairReceive" autocomplete="off">
+        <div class="card-groups">
+          <header>
+            <div>
+              <h1 class="icon-write" data-i18n>{LNG_Get a repair}</h1>
+              <p data-i18n>{LNG_Repair job description}</p>
+            </div>
+            <div>
+              <a class="btn btn-secondary icon-back" href="/repair-jobs" data-i18n>{LNG_Repair list}</a>
+            </div>
+          </header>
+          <div class="content-body">
+            <fieldset>
+              <legend class="icon-customer" data-i18n>{LNG_Details of} {LNG_Customer}</legend>
+              <div class="form-group">
+                <div class="width50">
+                  <label for="name" data-i18n>{LNG_Name}</label>
+                  <span class="form-control icon-customer">
+                    <input type="text" id="name" name="name" data-attr="value:name" data-autocomplete="true" data-source="api/repair/autocomplete/customer?field=name"
+                           data-fill="phone, address, provinceID, zipcode" data-min-length="2" data-max-results="10" maxlength="100"
+                           placeholder="{LNG_Please fill in} {LNG_Name}" required>
+                  </span>
+                </div>
+                <div class="width50">
+                  <label for="phone" data-i18n>{LNG_Phone}</label>
+                  <span class="form-control icon-phone">
+                    <input type="text" id="phone" name="phone" data-attr="value:phone" data-autocomplete="true" data-source="api/repair/autocomplete/customer?field=phone"
+                           data-fill="name, address, provinceID, zipcode" data-min-length="2" data-max-results="10" maxlength="32">
+                  </span>
+                </div>
+              </div>
+              <div class="comment" data-i18n>{LNG_Find your transaction history by} {LNG_Name}, {LNG_Phone}</div>
+              <div>
+                <label for="address" data-i18n>{LNG_Address}</label>
+                <span class="form-control icon-address">
+                  <input type="text" id="address" name="address" data-attr="value:address" maxlength="150">
+                </span>
+              </div>
+              <div class="form-group">
+                <div class="width50">
+                  <label for="provinceID" data-i18n>{LNG_Province}</label>
+                  <span class="form-control icon-location">
+                    <select id="provinceID" name="provinceID" data-options-key="provinceID" data-attr="value:provinceID"></select>
+                  </span>
+                </div>
+                <div class="width50">
+                  <label for="zipcode" data-i18n>{LNG_Zipcode}</label>
+                  <span class="form-control icon-number">
+                    <input type="text" id="zipcode" name="zipcode" data-attr="value:zipcode" maxlength="10" inputmode="numeric">
+                  </span>
+                </div>
+              </div>
+            </fieldset>
+            <fieldset>
+              <legend class="icon-tools" data-i18n>{LNG_Repair job description}</legend>
+              <div class="form-group">
+                <div class="width50">
+                  <label for="equipment" data-i18n>{LNG_Equipment}</label>
+                  <span class="form-control icon-edit">
+                    <input type="text" id="equipment" name="equipment" data-attr="value:equipment" data-autocomplete="true"
+                           data-source="api/repair/autocomplete/equipment?field=equipment" data-fill="serial" data-min-length="2" data-max-results="10" maxlength="64"
+                           placeholder="{LNG_The name of the repairs, eg Computers}" required>
+                  </span>
+                </div>
+                <div class="width50">
+                  <label for="serial" data-i18n>{LNG_Serial/Registration No.}</label>
+                  <span class="form-control icon-number">
+                    <input type="text" id="serial" name="serial" data-attr="value:serial" data-autocomplete="true"
+                           data-source="api/repair/autocomplete/equipment?field=serial" data-fill="equipment" data-min-length="2" data-max-results="10" maxlength="20"
+                           placeholder="{LNG_Identity of the repair machine used to separate items.}">
+                  </span>
+                </div>
+              </div>
+              <div class="comment" data-i18n>{LNG_Find your transaction history by} {LNG_Equipment}, {LNG_Serial/Registration No.}</div>
+              <div>
+                <label for="job_description" data-i18n>{LNG_Problems and repairs details}</label>
+                <span class="form-control icon-file">
+                  <textarea id="job_description" name="job_description" rows="5" data-text="job_description"></textarea>
+                </span>
+              </div>
+              <div class="form-group">
+                <div class="width33">
+                  <label for="created_at" data-i18n>{LNG_Received date}</label>
+                  <span class="form-control icon-calendar">
+                    <input type="date" id="created_at" name="created_at" data-attr="value:created_at">
+                  </span>
+                </div>
+                <div class="width33">
+                  <label for="appointment_date" data-i18n>{LNG_Appointment date}</label>
+                  <span class="form-control icon-calendar">
+                    <input type="date" id="appointment_date" name="appointment_date" data-attr="value:appointment_date">
+                  </span>
+                </div>
+                <div class="width33">
+                  <label for="appraiser" data-i18n>{LNG_Appraiser}</label>
+                  <span class="form-control icon-money">
+                    <input type="number" id="appraiser" name="appraiser" data-attr="value:appraiser" min="0" step="0.01">
+                  </span>
+                </div>
+              </div>
+              <div>
+                <label for="comment" data-i18n>{LNG_Comment}</label>
+                <span class="form-control icon-comments">
+                  <input type="text" id="comment" name="comment" data-attr="value:comment" maxlength="255">
+                </span>
+                <div class="comment" data-i18n>{LNG_Note or additional notes}</div>
+              </div>
+            </fieldset>
+            <fieldset class="submit">
+              <button type="submit" class="btn btn-primary icon-save" data-repair-print="0" data-i18n>{LNG_Save}</button>
+              <button type="submit" class="btn btn-info icon-print" data-repair-print="1" data-i18n>{LNG_Save &amp; Print receipt}</button>
+              <input type="hidden" name="id" data-attr="value:id">
+              <input type="hidden" name="print" id="print" value="0">
+            </fieldset>
+          </div>
+        </div>
+      </form>
+    </main>
+  </div>
+  <footer class="footer">
+    <p class="center">&copy; 2026 Now.js - <a href="https://nowjs.net">nowjs.net</a></p>
+  </footer>
+</div>

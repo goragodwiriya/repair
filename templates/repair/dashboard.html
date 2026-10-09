@@ -1,0 +1,49 @@
+<aside data-component="sidebar"></aside>
+<div class="main-content">
+  <div>
+    <header data-component="topbar"></header>
+    <main class="content">
+      <div class="card-groups">
+        <header>
+          <div>
+            <h1 class="icon-tools" data-i18n>{LNG_Repair jobs}</h1>
+            <p data-i18n>{LNG_Repair system}</p>
+          </div>
+          <div>
+            <a class="btn btn-primary icon-new" href="/repair-receive?id=0" data-i18n>{LNG_Get a repair}</a>
+          </div>
+        </header>
+        <div class="content-body">
+          <div class="ggrid" data-component="api" data-endpoint="api/repair/dashboard/get">
+            <div class="block3 large6 stat-card positive">
+              <div class="stat-header icon-tools">
+                <div class="stat-title" data-i18n>{LNG_Job today}</div>
+              </div>
+              <div class="stat-value" data-text="data.today"></div>
+              <div class="stat-change">
+                <a href="/repair-jobs" data-i18n>{LNG_Repair list}</a>
+              </div>
+            </div>
+            <div class="block3 large6 stat-card">
+              <div class="stat-header icon-customer">
+                <div class="stat-title" data-i18n>{LNG_Operator}</div>
+              </div>
+              <div class="stat-value" data-text="data.mine"></div>
+              <div class="stat-change" data-i18n>{LNG_Repair jobs}</div>
+            </div>
+            <div class="block3 large6 stat-card">
+              <div class="stat-header icon-list">
+                <div class="stat-title" data-i18n>{LNG_List of} {LNG_Repair}</div>
+              </div>
+              <div class="stat-value" data-text="data.total"></div>
+              <div class="stat-change" data-i18n>{LNG_all items}</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+  <footer class="footer">
+    <p class="center">&copy; 2026 Now.js - <a href="https://nowjs.net">nowjs.net</a></p>
+  </footer>
+</div>

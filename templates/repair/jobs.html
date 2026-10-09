@@ -1,0 +1,90 @@
+<aside data-component="sidebar"></aside>
+<div class="main-content">
+  <div>
+    <header data-component="topbar"></header>
+    <main class="content">
+      <div class="card-groups">
+        <header>
+          <div>
+            <h1 class="icon-list" data-i18n>{LNG_List of} {LNG_Repair}</h1>
+            <p data-i18n>{LNG_Repair system}</p>
+          </div>
+          <div>
+            <a class="btn btn-primary icon-new" href="/repair-receive?id=0" data-i18n>{LNG_Get a repair}</a>
+          </div>
+        </header>
+        <div class="content-body">
+          <div class="tablebody">
+            <form data-table-filter="repairJobs" class="table_nav">
+              <div>
+                <label for="from" data-i18n>{LNG_from}</label>
+                <span class="form-control">
+                  <input type="date" id="from" name="from">
+                </span>
+              </div>
+              <div>
+                <label for="to" data-i18n>{LNG_to}</label>
+                <span class="form-control">
+                  <input type="date" id="to" name="to">
+                </span>
+              </div>
+              <div>
+                <label for="operator_id" data-i18n>{LNG_Operator}</label>
+                <span class="form-control">
+                  <select name="operator_id">
+                    <option value="" data-i18n>{LNG_all items}</option>
+                  </select>
+                </span>
+              </div>
+              <div>
+                <label for="status" data-i18n>{LNG_Repair status}</label>
+                <span class="form-control">
+                  <select name="status">
+                    <option value="-1" data-i18n>{LNG_all items}</option>
+                  </select>
+                </span>
+              </div>
+              <input type="search" name="search" placeholder="{LNG_Search}...">
+            </form>
+            <table class="table border fullwidth" data-table="repairJobs" data-source="api/repair/jobs" data-default-sort="created_at desc" data-page-size="30"
+                   data-search-columns="name,phone,job_id,equipment" data-show-checkbox="true" data-actions='{"delete":"Delete"}' data-action-url="api/repair/jobs/action"
+                   data-row-actions='{
+                      "status": {
+                        "title": "Repair status",
+                        "className": "btn btn-warning icon-list"
+                      },
+                      "detail": {
+                        "title": "Repair job description",
+                        "className": "btn btn-info icon-report"
+                      },
+                      "edit": {
+                        "title": "Edit",
+                        "className": "btn btn-success icon-edit",
+                        "condition": "can_manage == 1"
+                      }
+                    }'>
+              <thead>
+                <tr>
+                  <th data-field="job_id" data-sort="job_id" data-formatter="formatRepairJobId" data-i18n>{LNG_Receipt No.}</th>
+                  <th data-field="name" data-sort="name" data-cell-class="nowrap" data-i18n>{LNG_Name}</th>
+                  <th data-field="phone" class="center" data-cell-class="center" data-template="<a href='tel:${phone}'>${phone}</a>" data-i18n>{LNG_Phone}</th>
+                  <th data-field="equipment" data-cell-class="nowrap" data-i18n>{LNG_Equipment}</th>
+                  <th data-field="created_at" data-sort="created_at" class="center" data-cell-class="center nowrap" data-format="date" data-i18n>{LNG_Received date}</th>
+                  <th data-field="appointment_date" data-sort="appointment_date" class="center" data-cell-class="center nowrap" data-format="date" data-i18n>{LNG_Appointment date}</th>
+                  <th data-field="operator_id" data-filter="true" data-type="select" data-show-all="true" data-all-value="" class="center" data-cell-class="center"
+                      data-template="${operator_name}" data-i18n>{LNG_Operator}</th>
+                  <th data-field="status" data-sort="status" data-filter="true" data-type="select" data-show-all="true" data-all-value="-1" class="center" data-cell-class="center"
+                      data-template="<span class='repair-status' style='background-color:${status_color}'>${status_text}</span>" data-i18n>{LNG_Repair status}</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+  <footer class="footer">
+    <p class="center">&copy; 2026 Now.js - <a href="https://nowjs.net">nowjs.net</a></p>
+  </footer>
+</div>

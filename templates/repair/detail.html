@@ -1,0 +1,113 @@
+<aside data-component="sidebar"></aside>
+<div class="main-content">
+  <div>
+    <header data-component="topbar"></header>
+    <main class="content">
+      <form data-form="repairDetail" data-validate="false" data-load-api="api/repair/detail/get" data-load-query-params="true" autocomplete="off">
+        <div class="card-groups">
+          <header>
+            <div>
+              <h1 class="icon-file" data-text="'{LNG_Repair job description} ' + job_id" data-i18n></h1>
+              <p data-text="equipment"></p>
+            </div>
+            <div>
+              <button type="button" class="btn btn-warning icon-tools" data-action="click.prevent:requestApi" data-api-url="api/repair/action/get" data-api-method="get"
+                      data-attr="data-param-id:id" data-i18n>{LNG_Update repair status}</button>
+              <a class="btn btn-info icon-print" target="_blank" rel="noopener" data-attr="href:print_url" data-i18n>{LNG_Print receipt}</a>
+              <a class="btn btn-secondary icon-back" href="/repair-jobs" data-i18n>{LNG_Repair list}</a>
+            </div>
+          </header>
+          <div class="content-body">
+            <fieldset>
+              <legend class="icon-customer" data-i18n>{LNG_Details of} {LNG_Customer}</legend>
+              <div class="repair-detail-grid">
+                <div class="repair-detail-item">
+                  <label data-i18n>{LNG_Receipt No.}</label>
+                  <span data-text="job_id"></span>
+                </div>
+                <div class="repair-detail-item">
+                  <label data-i18n>{LNG_Name}</label>
+                  <span data-text="name"></span>
+                </div>
+                <div class="repair-detail-item">
+                  <label data-i18n>{LNG_Phone}</label>
+                  <span data-text="phone"></span>
+                </div>
+                <div class="repair-detail-item">
+                  <label data-i18n>{LNG_Address}</label>
+                  <span data-text="address + ' ' + province + ' ' + zipcode"></span>
+                </div>
+              </div>
+            </fieldset>
+            <fieldset>
+              <legend class="icon-tools" data-i18n>{LNG_Repair job description}</legend>
+              <div class="repair-detail-grid">
+                <div class="repair-detail-item">
+                  <label data-i18n>{LNG_Equipment}</label>
+                  <span data-text="equipment"></span>
+                </div>
+                <div class="repair-detail-item">
+                  <label data-i18n>{LNG_Serial/Registration No.}</label>
+                  <span data-text="serial"></span>
+                </div>
+                <div class="repair-detail-item">
+                  <label data-i18n>{LNG_Received date}</label>
+                  <span data-text="created_at" data-format="datetime"></span>
+                </div>
+                <div class="repair-detail-item">
+                  <label data-i18n>{LNG_Appointment date}</label>
+                  <span data-text="appointment_date" data-format="date"></span>
+                </div>
+                <div class="repair-detail-item">
+                  <label data-i18n>{LNG_Appraiser}</label>
+                  <span data-text="appraiser_text"></span>
+                </div>
+                <div class="repair-detail-item">
+                  <label data-i18n>{LNG_Repair status}</label>
+                  <span class="repair-status" data-attr="style:status_style" data-text="status_text"></span>
+                </div>
+              </div>
+              <div>
+                <label data-i18n>{LNG_Problems and repairs details}</label>
+                <p data-text="job_description"></p>
+              </div>
+              <div>
+                <label data-i18n>{LNG_Repair note}</label>
+                <p data-text="comment"></p>
+              </div>
+            </fieldset>
+            <fieldset class="grid">
+              <legend class="icon-list" data-i18n>{LNG_Transaction history}</legend>
+              <div class="tablebody">
+                <table class="table border fullwidth" data-table="repairTimeline" data-attr="data:timeline" data-action-url="api/repair/detail/action"
+                       data-row-actions='{
+                          "delete": {
+                            "title": "Delete",
+                            "className": "btn btn-danger icon-delete notext",
+                            "confirm": "You want to delete ?",
+                            "condition": "can_manage == 1"
+                          }
+                        }'>
+                  <thead>
+                    <tr>
+                      <th data-field="created_at" data-format="datetime" class="center" data-cell-class="center nowrap" data-i18n>{LNG_Transaction date}</th>
+                      <th data-field="name" data-cell-class="nowrap" data-i18n>{LNG_Operator}</th>
+                      <th data-field="status" class="center" data-cell-class="center"
+                          data-template="<span class='repair-status' style='background-color:${status_color}'>${status_text}</span>" data-i18n>{LNG_Repair status}</th>
+                      <th data-field="cost_text" class="center" data-cell-class="right nowrap" data-i18n>{LNG_Cost}</th>
+                      <th data-field="comment" data-i18n>{LNG_Comment}</th>
+                    </tr>
+                  </thead>
+                  <tbody></tbody>
+                </table>
+              </div>
+            </fieldset>
+          </div>
+        </div>
+      </form>
+    </main>
+  </div>
+  <footer class="footer">
+    <p class="center">&copy; 2026 Now.js - <a href="https://nowjs.net">nowjs.net</a></p>
+  </footer>
+</div>

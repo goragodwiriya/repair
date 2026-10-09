@@ -1,0 +1,42 @@
+/**
+ * modules/repair/views/receipt.css
+ *
+ * ส่วนเพิ่มของใบรับซ่อม ต่อจากสไตล์กลาง modules/export/views/print.css
+ */
+/* รายละเอียดการซ่อมเป็นข้อความยาว ต้องขึ้นบรรทัดใหม่ได้ */
+.repair-receipt table.items td.receipt-detail {
+  white-space: normal;
+  font-weight: 400;
+  line-height: 1.7;
+  padding: var(--sp-3);
+}
+.repair-receipt .item-note {
+  margin-top: var(--sp-2);
+  color: var(--muted);
+  font-size: var(--t-sm);
+}
+/* QR Code ติดตามสถานะ อยู่ในการ์ดซ้ายของส่วนสรุป */
+.repair-receipt .receipt-track {
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--sp-3);
+}
+.repair-receipt .receipt-track .comment {
+  word-break: break-all;
+}
+.repair-receipt .receipt-qr {
+  flex: 0 0 auto;
+  width: 26mm;
+  height: 26mm;
+}
+/* ช่องลายเซ็นสูงขึ้นเพื่อให้เซ็นได้จริง และกว้างเท่ากัน */
+.repair-receipt .receipt-signs {
+  grid-auto-columns: 1fr;
+  justify-content: stretch;
+}
+.repair-receipt .sign-box {
+  height: 28mm;
+}
+.sum-row.grand {
+  border-top: none;
+}

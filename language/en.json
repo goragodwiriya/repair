@@ -1,0 +1,63 @@
+{
+    "ACCEPT_ALL": "Accept all",
+    "ADD": "Add",
+    "CURRENCY_UNITS": {
+        "THB": "Baht",
+        "USD": "Dollar",
+        "LAK": "Kip"
+    },
+    "DATE_FORMAT": "d M Y, H:i",
+    "DATE_LONG": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+    ],
+    "DATE_SHORT": [
+        "Su",
+        "Mo",
+        "Tu",
+        "We",
+        "Th",
+        "Fr",
+        "Sa"
+    ],
+    "DRAG_AND_DROP_TO_REORDER": "Drag and drop to reorder",
+    "GO_TO_PAGE": "go to page",
+    "MONTH_LONG": {
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December"
+    },
+    "MONTH_SHORT": {
+        "1": "Jan",
+        "2": "Feb",
+        "3": "Mar",
+        "4": "Apr",
+        "5": "May",
+        "6": "Jun",
+        "7": "Jul",
+        "8": "Aug",
+        "9": "Sep",
+        "10": "Oct",
+        "11": "Nov",
+        "12": "Dec"
+    },
+    "now": "Just now",
+    "SHOWING_PAGE": "showing page",
+    "SMS_SENDER_COMMENT": "Some packages may not be able to assign the sender name. Please check with the service provider.",
+    "TIME_FORMAT": "H:i",
+    "YEAR_OFFSET": 0
+}

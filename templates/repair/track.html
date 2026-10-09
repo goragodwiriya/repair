@@ -1,0 +1,76 @@
+<div class="repair-track">
+  <form data-form="repairTrack" data-validate="false" data-load-api="api/repair/track/get" data-load-query-params="true" autocomplete="off">
+    <div class="card-groups">
+      <header>
+        <div>
+          <img class="repair-track-logo" data-attr="src:company_logo" data-if="company_logo != ''" alt="">
+          <h1 class="icon-tools" data-text="company_name"></h1>
+          <p data-text="'{LNG_Receipt No.} ' + job_id" data-i18n></p>
+        </div>
+        <div>
+          <span class="repair-status repair-status-lg" data-attr="style:status_style" data-text="status_text"></span>
+        </div>
+      </header>
+      <div class="content-body">
+        <fieldset>
+          <legend class="icon-tools" data-i18n>{LNG_Repair job description}</legend>
+          <div class="repair-detail-grid">
+            <div class="repair-detail-item">
+              <label data-i18n>{LNG_Customer}</label>
+              <span data-text="name"></span>
+            </div>
+            <div class="repair-detail-item">
+              <label data-i18n>{LNG_Phone}</label>
+              <span data-text="phone"></span>
+            </div>
+            <div class="repair-detail-item">
+              <label data-i18n>{LNG_Equipment}</label>
+              <span data-text="equipment"></span>
+            </div>
+            <div class="repair-detail-item">
+              <label data-i18n>{LNG_Serial/Registration No.}</label>
+              <span data-text="serial"></span>
+            </div>
+            <div class="repair-detail-item">
+              <label data-i18n>{LNG_Received date}</label>
+              <span data-text="created_at" data-format="datetime"></span>
+            </div>
+            <div class="repair-detail-item">
+              <label data-i18n>{LNG_Appointment date}</label>
+              <span data-text="appointment_date" data-format="date"></span>
+            </div>
+            <div class="repair-detail-item">
+              <label data-i18n>{LNG_Appraiser}</label>
+              <span data-text="appraiser_text"></span>
+            </div>
+          </div>
+          <div>
+            <label data-i18n>{LNG_Problems and repairs details}</label>
+            <p data-text="job_description"></p>
+          </div>
+        </fieldset>
+        <fieldset class="grid">
+          <legend class="icon-list" data-i18n>{LNG_Repair process}</legend>
+          <div class="tablebody">
+            <table class="table border fullwidth" data-table="repairTrackTimeline" data-attr="data:timeline">
+              <thead>
+                <tr>
+                  <th data-field="created_at" data-format="datetime" class="center" data-cell-class="center nowrap" data-i18n>{LNG_Transaction date}</th>
+                  <th data-field="name" data-cell-class="nowrap" data-i18n>{LNG_Operator}</th>
+                  <th data-field="status" class="center" data-cell-class="center"
+                      data-template="<span class='repair-status' style='background-color:${status_color}'>${status_text}</span>" data-i18n>{LNG_Repair status}</th>
+                  <th data-field="cost_text" class="center" data-cell-class="right nowrap" data-i18n>{LNG_Cost}</th>
+                  <th data-field="comment" data-i18n>{LNG_Comment}</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </fieldset>
+        <p class="center comment">
+          <span data-i18n>{LNG_Phone}</span> <span data-text="company_phone"></span>
+        </p>
+      </div>
+    </div>
+  </form>
+</div>
