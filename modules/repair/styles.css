@@ -1,0 +1,61 @@
+/**
+ * modules/repair/styles.css
+ * CSS เฉพาะโมดูลรับซ่อม ตั้ง prefix .repair- กันชนกับ core และโมดูลอื่น
+ */
+
+/* ป้ายสถานะการซ่อม สีมาจากหมวดหมู่ repairstatus */
+.repair-status {
+  display: inline-block;
+  padding: 2px var(--space-2, 8px);
+  border-radius: var(--radius-sm, 4px);
+  color: #fff;
+  font-size: .85em;
+  line-height: 1.6;
+  white-space: nowrap;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, .35);
+}
+
+.repair-status-lg {
+  padding: var(--space-2, 8px) var(--space-4, 16px);
+  font-size: 1em;
+}
+
+/* เลขที่ใบรับซ่อมในตาราง กดแล้วเปิดใบรับซ่อม */
+.repair-job-id {
+  white-space: nowrap;
+  font-weight: 600;
+}
+
+/* ตารางรายละเอียดแบบ label + ค่า */
+.repair-detail-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: var(--space-3, 12px) var(--space-4, 16px);
+  margin-bottom: var(--space-4, 16px);
+}
+
+.repair-detail-item label {
+  display: block;
+  font-size: .85em;
+  opacity: .7;
+  margin-bottom: 2px;
+}
+
+.repair-detail-item > span {
+  display: inline-block;
+  font-weight: 600;
+  word-break: break-word;
+}
+
+/* หน้าติดตามสถานะสำหรับลูกค้า ไม่มี sidebar/topbar */
+.repair-track {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: var(--space-4, 16px);
+}
+
+.repair-track-logo {
+  max-height: 64px;
+  display: block;
+  margin-bottom: var(--space-2, 8px);
+}

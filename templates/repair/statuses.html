@@ -1,0 +1,33 @@
+<form data-form="repairStatuses" action="api/repair/statuses/save" method="post" data-ajax-submit="true" data-load-api="api/repair/statuses/get"
+      data-confirm="Confirm save" autocomplete="off">
+  <div class="card-groups">
+    <header>
+      <div>
+        <h1 class="icon-star0" data-i18n>{LNG_Repair status}</h1>
+        <p data-i18n>{LNG_Details of} {LNG_Repair status}</p>
+      </div>
+    </header>
+    <div class="content-body">
+      <fieldset class="grid">
+        <div class="tablebody">
+          <table class="table border fullwidth" data-table="repairStatuses" data-editable-rows="true" data-attr="data:options" data-url-params="false">
+            <!-- คอลัมน์ของตารางแก้ไขอยู่ที่นี่ — API ส่งเฉพาะแถว -->
+            <thead>
+              <tr>
+                <th data-field="category_id" class="center" data-cell-class="center" data-cell-element="text" data-size="5" data-i18n>{LNG_ID}</th>
+                <th data-field="topic" data-cell-element="text" data-size="30" data-i18n>{LNG_Repair status}</th>
+                <th data-field="color" class="center" data-cell-class="center" data-cell-element="color" data-size="10" data-i18n>{LNG_Color}</th>
+                <th data-field="is_active" class="center" data-cell-class="center" data-cell-element="switch" data-i18n>{LNG_Active}</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <div class="comment" data-i18n>{LNG_Initial repair status}</div>
+      </fieldset>
+      <fieldset class="submit">
+        <button type="submit" class="btn btn-primary icon-save" data-i18n>{LNG_Save}</button>
+      </fieldset>
+    </div>
+  </div>
+</form>
